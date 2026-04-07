@@ -12,7 +12,7 @@ int main() {
         {
             if (i==1 || j==1|| i==n || j==m  )
             {
-                cout<< "*" ;
+                cout<< "^" ;
             }else
             {
                 cout<< " ";

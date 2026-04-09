@@ -13,9 +13,9 @@ for (int i = n; i >= 1; i--)
         
     }
     if(count==2){
-        cout<< " Prime" <<endl;
+        cout<< "Prime" <<endl;
     }else{
-        cout<< "not prime " <<endl;
+        cout<< "Not Prime" <<endl;
     }
     cout<< "\n";
     

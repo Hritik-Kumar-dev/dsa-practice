@@ -19,8 +19,12 @@ int nCr(int n , int r ){
 int main() {
 int n ,r ;
 cin>> n >> r  ;
-
+if (n>=0 && n<=10 && r>=0 && r<=10)
+{
+    
     cout<< nCr(n,r) <<endl;
+}
+
 
     return 0;
 }

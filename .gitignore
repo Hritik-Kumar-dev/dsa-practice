@@ -1,0 +1,8 @@
+# C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+
+# Executable generated beside the tagged source file
+/arrays/K_Swap_Alternate
